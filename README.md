@@ -1,5 +1,5 @@
 # Usages
-pyhon bank_application.py
+`pyhon bank_application.py`
 
 # bank_application
 Python Application with Features like - 
